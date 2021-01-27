@@ -5,6 +5,6 @@
 <hr>
 
 
-![view]()
+![view](https://github.com/nearshelby-yt/Layout-login-page/blob/main/view.png)
 </center>
 <hr>
